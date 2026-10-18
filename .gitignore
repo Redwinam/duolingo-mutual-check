@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/*
+!dist/duolingo-mutual-check.user.js
+!dist/duolingo-mutual-check.meta.js
+*.log
+.env
+.env.*
+!.env.example
+backups/
+snapshots/
+duolingo-*.json
